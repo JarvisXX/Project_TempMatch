@@ -1,0 +1,19 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+5239,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,1,708,233,1069,346,模板特征,,,,,2016/5/24 10:01:18
+5240,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,2,95,663,1148,200,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/5/24 10:01:18
+5241,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,3,104,922,1139,261,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/5/24 10:01:18
+5242,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,4,102,1267,1144,261,表头框,BIinvoiceHdr,发票表头,sNotifyParty,被通知方,2016/5/24 10:01:18
+5243,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,5,97,1599,563,90,表头框,BIinvoiceHdr,发票表头,sHort,装船港,2016/5/24 10:01:18
+5244,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,6,665,1597,591,92,表头框,BIinvoiceHdr,发票表头,sLort,卸货港,2016/5/24 10:01:18
+5245,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,7,94,1745,561,90,表头框,BIinvoiceHdr,发票表头,sShipmentCode,装船批号,2016/5/24 10:01:18
+5246,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,8,670,1738,579,94,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/5/24 10:01:18
+5247,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,9,1269,655,1045,51,表头框,BIinvoiceHdr,发票表头,sInvoNoAdnData,发票号发票日期,2016/5/24 10:01:18
+5248,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,10,1274,760,1034,84,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/5/24 10:01:18
+5249,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,11,1274,1164,1040,661,表头框,BIinvoiceHdr,发票表头,sRemark,备注,2016/5/24 10:01:18
+5250,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,12,1625,1912,591,87,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/5/24 10:01:18
+5251,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,13,97,1994,2291,1233,表体外框,,,,,2016/5/24 10:01:18
+5252,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,14,97,1996,519,1242,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,序号,2016/5/24 10:01:18
+5253,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,15,614,1994,571,1239,表体列,BIinvoiceDtl,发票表体,sQuan,品名,2016/5/24 10:01:18
+5254,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,16,1182,1996,451,1239,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/5/24 10:01:18
+5255,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,17,1630,2001,356,1229,表体列,BIinvoiceDtl,发票表体,sCurrency,单价,2016/5/24 10:01:18
+5256,D:\Bill_template\invoice\SkGlobalinvoice20160524093847.jpg,SkGlobal,invoice,复杂模版,FALSE,FALSE,18,1989,1999,389,1231,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/5/24 10:01:18

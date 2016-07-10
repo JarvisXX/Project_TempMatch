@@ -1,0 +1,22 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4710,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,1,63,75,1514,199,模板特征,,,,,2016/4/13 18:34:29
+4711,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,2,68,73,805,90,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/13 18:34:29
+4712,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,3,148,413,655,235,表头框,BIinvoiceHdr,发票表头,sNotifyParty,被通知方,2016/4/13 18:34:29
+4713,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,4,914,415,608,232,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/13 18:34:29
+4714,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,5,83,364,313,42,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/13 18:34:29
+4715,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,6,415,361,288,49,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/13 18:34:29
+4716,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,7,1008,355,543,55,表头框,BIinvoiceHdr,发票表头,sTotalAmount,总计金额货币,2016/4/13 18:34:29
+4717,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,8,1079,1249,360,32,表头框,BIinvoiceHdr,发票表头,sLoadPort,,2016/4/13 18:34:29
+4718,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,9,1079,1278,360,39,表头框,BIinvoiceHdr,发票表头,sDiskPort,,2016/4/13 18:34:29
+4719,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,10,846,1020,294,34,表头框,BIinvoiceHdr,发票表头,sCommoditry,产品,2016/4/13 18:34:29
+4720,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,11,1362,1041,231,30,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/13 18:34:29
+4721,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,12,1368,1068,207,40,表头框,BIinvoiceHdr,发票表头,sCountryOrigin,原产地国,2016/4/13 18:34:29
+4722,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,13,654,1069,507,30,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/13 18:34:29
+4723,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,14,325,1037,167,32,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/13 18:34:29
+4724,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,15,65,890,1500,298,表体外框,,,,,2016/4/13 18:34:29
+4725,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,16,66,888,403,293,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/13 18:34:29
+4726,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,17,469,888,380,294,表体列,BIinvoiceDtl,发票表体,sPallet,其他,2016/4/13 18:34:29
+4727,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,18,851,890,316,298,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/13 18:34:29
+4728,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,19,1165,891,197,297,表体列,BIinvoiceDtl,发票表体,sQuan,品名,2016/4/13 18:34:29
+4729,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,20,1363,894,209,293,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/13 18:34:29
+4730,D:\Bill_template\invoice\ExxonMobilAsiainvoice20160412102618.jpg,ExxonMobilAsia,invoice,复杂模版,FALSE,FALSE,21,59,301,1516,71,模板特征,,,,,2016/4/13 18:34:29

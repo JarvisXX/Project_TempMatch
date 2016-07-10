@@ -1,0 +1,21 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4617,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,1,954,195,1358,170,模板特征,,,,,2016/4/13 16:02:55
+4618,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,2,148,430,1507,385,模板特征,,,,,2016/4/13 16:02:55
+4619,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,3,145,505,1485,300,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/13 16:02:55
+4620,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,4,142,880,1500,365,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/13 16:02:55
+4621,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,5,148,1317,1482,369,表头框,BIinvoiceHdr,发票表头,sNotifyParty,被通知方,2016/4/13 16:02:55
+4622,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,6,154,1763,732,140,表头框,BIinvoiceHdr,发票表头,sLoadPort,装船港,2016/4/13 16:02:55
+4623,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,7,895,1763,735,140,表头框,BIinvoiceHdr,发票表头,sDiskPort,卸货港,2016/4/13 16:02:55
+4624,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,8,151,1983,741,130,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/13 16:02:55
+4625,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,9,898,1986,738,127,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/13 16:02:55
+4626,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,10,1645,514,1525,87,表头框,BIinvoiceHdr,发票表头,sInvoNoAdnData,发票号发票日期,2016/4/13 16:02:55
+4627,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,11,1648,666,1519,84,表头框,BIinvoiceHdr,发票表头,sLCNoAdnData,信用证号与日期,2016/4/13 16:02:55
+4628,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,12,1652,818,1506,214,表头框,BIinvoiceHdr,发票表头,sLcBank,开证行,2016/4/13 16:02:55
+4629,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,13,1652,1115,1627,1014,表头框,BIinvoiceHdr,发票表头,sRemark,备注,2016/4/13 16:02:55
+4630,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,14,774,2234,1181,75,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/13 16:02:55
+4631,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,15,56,2311,3227,2331,表体外框,,,,,2016/4/13 16:02:55
+4632,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,16,84,2327,724,2143,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,麦码标记，包装编号和标记。常用内容：N/M,2016/4/13 16:02:55
+4633,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,17,858,2337,796,2127,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,品名,2016/4/13 16:02:55
+4634,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,18,1647,2337,455,2145,表体列,BIinvoiceDtl,发票表体,sQuan,数量,2016/4/13 16:02:55
+4635,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,19,2102,2340,482,2161,表体列,BIinvoiceDtl,发票表体,sUnitPrice,单价,2016/4/13 16:02:55
+4636,D:\Bill_template\invoice\HuvisCorporationinvoice20160413155319.jpg,HuvisCorporation,invoice,复杂模版,FALSE,FALSE,20,2578,2337,586,2161,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/13 16:02:55

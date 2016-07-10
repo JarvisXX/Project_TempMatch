@@ -1,0 +1,14 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+3788,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,1,239,134,1183,233,模板特征,,,,,2016/4/11 17:09:59
+3789,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,2,249,141,1176,106,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/11 17:09:59
+3790,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,3,464,466,1088,106,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/11 17:09:59
+3791,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,4,464,570,707,48,表头框,BIinvoiceHdr,发票表头,sRemark,备注,2016/4/11 17:09:59
+3792,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,5,276,754,439,43,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/11 17:09:59
+3793,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,6,783,754,289,43,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/11 17:09:59
+3794,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,7,1166,758,288,37,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/4/11 17:09:59
+3795,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,8,161,959,532,65,表头框,BIinvoiceHdr,发票表头,sGoodsDesc,品名,2016/4/11 17:09:59
+3796,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,9,161,1027,529,67,表头框,BIinvoiceHdr,发票表头,sUnitPrice,单价,2016/4/11 17:09:59
+3797,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,10,158,1100,717,52,表头框,BIinvoiceHdr,发票表头,sTotalQuan,总计数量单位,2016/4/11 17:09:59
+3798,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,11,159,1147,575,39,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/11 17:09:59
+3799,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,12,488,1181,356,42,表头框,BIinvoiceHdr,发票表头,sCountryOrigin,原产地国,2016/4/11 17:09:59
+3800,D:\Bill_template\invoice\WinningRewardinvoice20160411165825.jpg,WinningReward,invoice,复杂模版,FALSE,FALSE,13,426,1224,492,50,表头框,BIinvoiceHdr,发票表头,sTotalAmount,总计金额货币,2016/4/11 17:09:59

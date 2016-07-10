@@ -1,0 +1,18 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4128,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,1,135,104,1324,148,模板特征,,,,,2016/4/12 14:26:27
+4129,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,2,387,91,814,77,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 14:26:27
+4130,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,3,143,393,666,153,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 14:26:27
+4131,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,4,810,315,380,41,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 14:26:27
+4132,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,5,1190,312,263,45,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 14:26:27
+4133,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,6,1192,390,261,41,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/4/12 14:26:27
+4134,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,7,813,389,407,37,表头框,BIinvoiceHdr,发票表头,sLCNo,信用证号,2016/4/12 14:26:27
+4135,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,8,818,468,503,79,表头框,BIinvoiceHdr,发票表头,sPONo,订单号,2016/4/12 14:26:27
+4136,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,9,141,589,668,55,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/12 14:26:27
+4137,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,10,817,589,597,50,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/12 14:26:27
+4138,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,11,146,675,664,40,表头框,BIinvoiceHdr,发票表头,sLoadPort,,2016/4/12 14:26:27
+4139,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,12,818,673,626,42,表头框,BIinvoiceHdr,发票表头,sDiskPort,,2016/4/12 14:26:27
+4140,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,13,124,822,1344,1419,表体外框,,,,,2016/4/12 14:26:27
+4141,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,14,141,828,293,1415,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,序号,2016/4/12 14:26:27
+4142,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,15,442,826,549,1409,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/12 14:26:27
+4143,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,16,995,820,226,1412,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/12 14:26:27
+4144,D:\Bill_template\invoice\ShLeafHeartTradinginvoice20160412141948.jpg,ShLeafHeartTrading,invoice,复杂模版,FALSE,FALSE,17,1220,820,226,1427,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 14:26:27

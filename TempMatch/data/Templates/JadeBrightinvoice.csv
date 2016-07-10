@@ -1,0 +1,21 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+2905,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,1,182,316,2032,353,模板特征,,,sExporter,,2016/4/1 15:19:24
+2906,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,2,180,577,1276,553,模板特征,,,sExporter,,2016/4/1 15:19:24
+2907,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,3,190,669,1274,491,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/1 15:19:24
+2908,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,4,1469,666,1434,492,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/1 15:19:24
+2909,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,5,200,1408,686,99,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/1 15:19:24
+2910,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,6,895,1411,585,88,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/1 15:19:24
+2911,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,7,744,1518,733,69,表头框,BIinvoiceHdr,发票表头,sLoadPort,,2016/4/1 15:19:24
+2912,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,8,873,1600,601,77,表头框,BIinvoiceHdr,发票表头,sDiskPort,,2016/4/1 15:19:24
+2913,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,9,727,1685,739,80,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/1 15:19:24
+2914,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,10,1913,1515,983,77,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/1 15:19:24
+2915,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,11,2089,1685,805,75,表头框,BIinvoiceHdr,发票表头,sCountryOrigin,原产地国,2016/4/1 15:19:24
+2916,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,12,211,2040,1104,258,表头框,BIinvoiceHdr,发票表头,sCommoditry,产品,2016/4/1 15:19:24
+2917,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,13,2020,2034,701,91,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/1 15:19:24
+2918,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,14,210,2989,1104,762,表头框,BIinvoiceHdr,发票表头,sRemark,备注,2016/4/1 15:19:24
+2919,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,15,179,2318,2767,573,表体外框,,,sExporter,,2016/4/1 15:19:24
+2920,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,16,210,2333,1104,531,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/1 15:19:24
+2921,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,17,1308,2333,192,512,表体列,BIinvoiceDtl,发票表体,sUnit,盘,2016/4/1 15:19:24
+2922,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,18,1503,2342,452,509,表体列,BIinvoiceDtl,发票表体,sQuan,品名,2016/4/1 15:19:24
+2923,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,19,1967,2345,467,500,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/1 15:19:24
+2924,D:\Bill_template\invoice\JadeBrightinvoice20160401133526.jpg,JadeBright,invoice,复杂模版,FALSE,FALSE,20,2434,2345,478,485,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/1 15:19:24

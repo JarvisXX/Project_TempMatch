@@ -1,0 +1,14 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4151,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,1,131,393,2998,662,模板特征,,,,,2016/4/12 14:34:05
+4152,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,2,127,486,1656,562,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 14:34:05
+4153,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,3,134,1166,1649,541,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 14:34:05
+4154,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,4,1797,1552,290,149,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 14:34:05
+4155,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,5,2277,1469,590,87,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 14:34:05
+4156,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,6,2301,1559,645,83,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/12 14:34:05
+4157,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,7,13,1980,3246,2710,表体外框,,,,,2016/4/12 14:34:05
+4158,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,8,22,1994,564,2650,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,序号,2016/4/12 14:34:05
+4159,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,9,600,1999,1169,2645,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/12 14:34:05
+4160,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,10,1792,1994,280,2650,表体列,BIinvoiceDtl,发票表体,sQuan,品名,2016/4/12 14:34:05
+4161,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,11,2081,1994,381,2677,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/12 14:34:05
+4162,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,12,2484,1999,629,2654,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 14:34:05
+4163,D:\Bill_template\invoice\ReflexWinkelmannGmbhinvoice20160412142815.jpg,ReflexWinkelmannGmbh,invoice,复杂模版,FALSE,FALSE,13,2503,1783,458,101,表头框,BIinvoiceHdr,发票表头,sCurrency,币种,2016/4/12 14:34:05

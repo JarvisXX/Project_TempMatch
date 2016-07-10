@@ -1,0 +1,19 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4991,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,1,76,38,1072,361,模板特征,,,,,2016/4/23 15:05:59
+4992,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,2,49,89,745,66,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/23 15:05:59
+4993,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,3,290,458,578,58,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/23 15:05:59
+4994,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,4,1208,352,335,53,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/23 15:05:59
+4995,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,5,1208,405,333,47,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/23 15:05:59
+4996,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,6,1101,471,478,47,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/4/23 15:05:59
+4997,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,7,1103,555,436,51,表头框,BIinvoiceHdr,发票表头,sPONo,订单号,2016/4/23 15:05:59
+4998,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,8,147,674,442,32,表头框,BIinvoiceHdr,发票表头,sCommoditry,产品,2016/4/23 15:05:59
+4999,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,9,1426,683,108,37,表头框,BIinvoiceHdr,发票表头,sCurrency,币种,2016/4/23 15:05:59
+5000,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,10,48,706,1653,1474,表体外框,,,,,2016/4/23 15:05:59
+5001,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,11,56,706,77,1429,表体列,BIinvoiceDtl,发票表体,sGoodsNo,,2016/4/23 15:05:59
+5002,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,12,133,706,493,1452,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/23 15:05:59
+5003,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,13,621,706,150,1449,表体列,BIinvoiceDtl,发票表体,sLengh,,2016/4/23 15:05:59
+5004,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,14,768,711,116,1438,表体列,BIinvoiceDtl,发票表体,sWidth,,2016/4/23 15:05:59
+5005,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,15,893,703,85,1449,表体列,BIinvoiceDtl,发票表体,sQuan,品名,2016/4/23 15:05:59
+5006,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,16,972,703,207,1455,表体列,BIinvoiceDtl,发票表体,sM2,,2016/4/23 15:05:59
+5007,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,17,1179,711,159,1449,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/23 15:05:59
+5008,D:\Bill_template\invoice\FordataChinaLTD+1invoice20160422172717.jpg,FordataChinaLTD+1,invoice,复杂模版,TRUE,FALSE,18,1338,711,235,1444,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/23 15:05:59

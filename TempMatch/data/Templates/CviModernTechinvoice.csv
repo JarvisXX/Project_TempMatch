@@ -1,0 +1,11 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4090,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,1,232,76,1194,359,模板特征,,,,,2016/4/12 14:08:27
+4091,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,2,212,170,1241,175,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 14:08:27
+4092,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,3,233,451,896,124,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 14:08:27
+4093,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,4,1356,456,279,44,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 14:08:27
+4094,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,5,1351,500,259,53,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 14:08:27
+4095,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,6,54,818,1534,1512,表体外框,,,,,2016/4/12 14:08:27
+4096,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,7,90,829,758,1449,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/12 14:08:27
+4097,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,8,854,829,241,1479,表体列,BIinvoiceDtl,发票表体,sUnitAndQuan,单位,2016/4/12 14:08:27
+4098,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,9,1092,827,186,1481,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/12 14:08:27
+4099,D:\Bill_template\invoice\CviModernTechinvoice20160411171121.jpg,CviModernTech,invoice,复杂模版,FALSE,FALSE,10,1276,827,274,1456,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 14:08:27

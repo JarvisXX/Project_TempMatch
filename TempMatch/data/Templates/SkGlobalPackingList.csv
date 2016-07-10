@@ -1,0 +1,17 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+5179,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,1,745,205,1210,375,模板特征,,,,,2016/5/23 14:00:17
+5180,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,2,97,667,943,191,表头框,BIPackingListHdr,箱单表头,sExporter,供应商或卖方,2016/5/23 14:00:17
+5181,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,3,96,949,1224,225,表头框,BIPackingListHdr,箱单表头,sConsignee,收货人或买方,2016/5/23 14:00:17
+5182,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,4,108,1276,1228,258,表头框,BIPackingListHdr,箱单表头,sNotifyParty,被通知方,2016/5/23 14:00:17
+5183,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,5,107,1603,544,90,表头框,BIPackingListHdr,箱单表头,sLoadPort,装船港,2016/5/23 14:00:17
+5184,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,6,670,1600,669,88,表头框,BIPackingListHdr,箱单表头,sDiskPort,卸货港,2016/5/23 14:00:17
+5185,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,7,97,1751,560,85,表头框,BIPackingListHdr,箱单表头,sShippingLine,航线,2016/5/23 14:00:17
+5186,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,8,670,1747,674,88,表头框,BIPackingListHdr,箱单表头,sSailingOnOrAbout,装船日期,2016/5/23 14:00:17
+5187,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,9,1355,660,1052,51,表头框,BIPackingListHdr,箱单表头,sInvoNoAdnData,发票号发票日期,2016/5/23 14:00:17
+5188,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,10,1357,765,1055,1064,表头框,BIPackingListHdr,箱单表头,sRemark,备注,2016/5/23 14:00:17
+5189,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,11,87,1904,2344,1331,表体外框,,,,,2016/5/23 14:00:17
+5190,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,12,510,1918,576,1322,表体列,BIPackingListDtl,箱单表体,sGoodsDesc,品名,2016/5/23 14:00:17
+5191,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,13,1089,1918,381,1319,表体列,BIPackingListDtl,箱单表体,sQuan,数量,2016/5/23 14:00:17
+5192,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,14,1465,1914,263,1325,表体列,BIPackingListDtl,箱单表体,sNetWeight2,净重,2016/5/23 14:00:17
+5193,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,15,1720,1909,387,1318,表体列,BIPackingListDtl,箱单表体,sGrossWeight1,毛重,2016/5/23 14:00:17
+5194,D:\Bill_template\PackingList\SkGlobalPackingList20160523125329.jpg,SkGlobal,PackingList,复杂模版,FALSE,FALSE,16,2107,1909,325,1322,表体列,BIPackingListDtl,箱单表体,sUnitMeasurement,单位体积,2016/5/23 14:00:17

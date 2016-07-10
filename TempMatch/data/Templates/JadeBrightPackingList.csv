@@ -1,0 +1,22 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+2564,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,1,286,360,1337,724,模板特征,,,sExporter,,2016/4/1 12:42:35
+2565,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,2,293,307,1911,378,模板特征,,,sExporter,,2016/4/1 12:42:35
+2566,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,3,325,692,1309,459,表头框,BIPackingListHdr,箱单表头,sExporter,供应商或卖方,2016/4/1 12:42:35
+2567,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,4,1644,675,1390,479,表头框,BIPackingListHdr,箱单表头,sConsignee,收货人或买方,2016/4/1 12:42:35
+2568,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,5,332,1440,683,127,表头框,BIPackingListHdr,箱单表头,sPlistNO,箱单号,2016/4/1 12:42:35
+2569,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,6,1026,1454,623,113,表头框,BIPackingListHdr,箱单表头,sPlistData,箱单日期,2016/4/1 12:42:35
+2570,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,7,1656,1376,1345,191,表头框,BIPackingListHdr,箱单表头,sAgent,代理,2016/4/1 12:42:35
+2571,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,8,867,1578,782,85,表头框,BIPackingListHdr,箱单表头,sLoadPort,装船港,2016/4/1 12:42:35
+2572,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,9,998,1674,640,92,表头框,BIPackingListHdr,箱单表头,sDiskPort,卸货港,2016/4/1 12:42:35
+2573,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,10,838,1773,790,81,表头框,BIPackingListHdr,箱单表头,sSailingOnOrAbout,装船日期,2016/4/1 12:42:35
+2574,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,11,877,1865,747,88,表头框,BIPackingListHdr,箱单表头,sNumPackages,件数,2016/4/1 12:42:35
+2575,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,12,2077,1585,910,82,表头框,BIPackingListHdr,箱单表头,sCarrier,承运方,2016/4/1 12:42:35
+2576,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,13,2098,1674,882,95,表头框,BIPackingListHdr,箱单表头,sShippingLine,航线,2016/4/1 12:42:35
+2577,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,14,2261,1776,729,92,表头框,BIPackingListHdr,箱单表头,sCountryOrigin,原产地国,2016/4/1 12:42:35
+2578,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,15,339,2932,1143,886,表头框,BIPackingListHdr,箱单表头,sRemark,备注,2016/4/1 12:42:35
+2579,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,16,296,2155,2748,1920,表体外框,,,sExporter,,2016/4/1 12:42:35
+2580,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,17,332,2155,539,1667,表体列,BIPackingListDtl,箱单表体,"sLotNosLotNo",,2016/4/1 12:42:35
+2581,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,18,875,2155,452,1663,表体列,BIPackingListDtl,箱单表体,sQuan,数量,2016/4/1 12:42:35
+2582,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,19,1330,2155,517,1645,表体列,BIPackingListDtl,箱单表体,sUnitGrossWeight,,2016/4/1 12:42:35
+2583,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,20,1851,2162,571,1674,表体列,BIPackingListDtl,箱单表体,sUnitNetWeight,,2016/4/1 12:42:35
+2584,D:\Bill_template\packinglist\JadeBrightPackingList20160331135459.jpg,JadeBright,PackingList,复杂模版,FALSE,FALSE,21,2429,2162,572,1660,表体列,BIPackingListDtl,箱单表体,sContainerNo,集装箱号,2016/4/1 12:42:35

@@ -1,0 +1,20 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+3853,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,1,175,109,864,368,模板特征,,,,,2016/4/12 9:41:35
+3854,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,2,204,197,966,49,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 9:41:35
+3855,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,3,197,557,838,197,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 9:41:35
+3856,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,4,1341,504,343,42,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 9:41:35
+3857,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,5,1337,543,326,49,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 9:41:35
+3858,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,6,1337,589,315,50,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/4/12 9:41:35
+3859,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,7,1337,634,303,56,表头框,BIinvoiceHdr,发票表头,sPONo,订单号,2016/4/12 9:41:35
+3860,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,8,394,768,586,49,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/12 9:41:35
+3861,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,9,1342,769,360,42,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/12 9:41:35
+3862,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,10,392,814,602,52,表头框,BIinvoiceHdr,发票表头,sLoadPort,,2016/4/12 9:41:35
+3863,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,11,1341,814,398,50,表头框,BIinvoiceHdr,发票表头,sDiskPort,,2016/4/12 9:41:35
+3864,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,12,391,864,332,50,表头框,BIinvoiceHdr,发票表头,sPayTerms,付款方式,2016/4/12 9:41:35
+3865,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,13,939,1065,454,77,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/12 9:41:35
+3866,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,14,12,1135,1631,1189,表体外框,,,,,2016/4/12 9:41:35
+3867,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,15,16,1141,312,1167,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,序号,2016/4/12 9:41:35
+3868,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,16,332,1141,440,1167,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/12 9:41:35
+3869,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,17,772,1139,291,1164,表体列,BIinvoiceDtl,发票表体,sQuan,品名,2016/4/12 9:41:35
+3870,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,18,1061,1145,291,1156,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/12 9:41:35
+3871,D:\Bill_template\invoice\ChinaResourcesTextilesinvoice20160411171348.jpg,ChinaResourcesTextiles,invoice,复杂模版,FALSE,FALSE,19,1352,1143,293,1167,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 9:41:35

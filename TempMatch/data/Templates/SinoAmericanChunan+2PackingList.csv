@@ -1,0 +1,8 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+5009,D:\Bill_template\PackingList\SinoAmericanChunan+2PackingList20160423145703.jpg,SinoAmericanChunan+2,PackingList,复杂模版,TRUE,FALSE,1,125,579,3019,3861,表体外框,,,,,2016/4/23 15:08:59
+5010,D:\Bill_template\PackingList\SinoAmericanChunan+2PackingList20160423145703.jpg,SinoAmericanChunan+2,PackingList,复杂模版,TRUE,FALSE,2,170,625,358,3798,表体列,BIPackingListDtl,箱单表体,sGoodsNo,序号,2016/4/23 15:08:59
+5011,D:\Bill_template\PackingList\SinoAmericanChunan+2PackingList20160423145703.jpg,SinoAmericanChunan+2,PackingList,复杂模版,TRUE,FALSE,3,534,619,716,3804,表体列,BIPackingListDtl,箱单表体,sGoodsDesc,品名,2016/4/23 15:08:59
+5012,D:\Bill_template\PackingList\SinoAmericanChunan+2PackingList20160423145703.jpg,SinoAmericanChunan+2,PackingList,复杂模版,TRUE,FALSE,4,1239,608,603,3815,表体列,BIPackingListDtl,箱单表体,sQuan,数量,2016/4/23 15:08:59
+5013,D:\Bill_template\PackingList\SinoAmericanChunan+2PackingList20160423145703.jpg,SinoAmericanChunan+2,PackingList,复杂模版,TRUE,FALSE,5,1819,597,466,3826,表体列,BIPackingListDtl,箱单表体,sUnitNetWeight,,2016/4/23 15:08:59
+5014,D:\Bill_template\PackingList\SinoAmericanChunan+2PackingList20160423145703.jpg,SinoAmericanChunan+2,PackingList,复杂模版,TRUE,FALSE,6,2268,597,455,3821,表体列,BIPackingListDtl,箱单表体,sUnitGrossWeight,,2016/4/23 15:08:59
+5015,D:\Bill_template\PackingList\SinoAmericanChunan+2PackingList20160423145703.jpg,SinoAmericanChunan+2,PackingList,复杂模版,TRUE,FALSE,7,2717,574,399,3849,表体列,BIPackingListDtl,箱单表体,sUnitMeasurement,单位体积,2016/4/23 15:08:59

@@ -1,0 +1,22 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4054,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,1,17,20,1522,206,模板特征,,,,,2016/4/12 13:19:12
+4055,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,2,886,356,702,78,模板特征,,,,,2016/4/12 13:19:12
+4056,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,3,421,35,1125,171,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 13:19:12
+4057,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,4,168,397,698,330,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 13:19:12
+4058,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,5,157,768,688,280,表头框,BIinvoiceHdr,发票表头,sNotifyParty,被通知方,2016/4/12 13:19:12
+4059,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,6,888,434,446,40,表头框,BIinvoiceHdr,发票表头,sInvoNoAdnData,发票号发票日期,2016/4/12 13:19:12
+4060,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,7,25,1194,717,32,表头框,BIinvoiceHdr,发票表头,sDiskPort,卸货港,2016/4/12 13:19:12
+4061,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,8,17,1252,739,34,表头框,BIinvoiceHdr,发票表头,sLoadPort,装船港,2016/4/12 13:19:12
+4062,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,9,1361,1279,163,53,表头框,BIinvoiceHdr,发票表头,sCurrency,币种,2016/4/12 13:19:12
+4063,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,10,240,1313,398,36,表头框,BIinvoiceHdr,发票表头,sPayTerms,付款方式,2016/4/12 13:19:12
+4064,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,11,23,1371,736,29,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/12 13:19:12
+4065,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,12,182,1426,593,27,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/12 13:19:12
+4066,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,13,303,1473,225,33,表头框,BIinvoiceHdr,发票表头,sLCNo,信用证号,2016/4/12 13:19:12
+4067,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,14,609,1470,162,37,表头框,BIinvoiceHdr,发票表头,sLCData,信用证日期,2016/4/12 13:19:12
+4068,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,15,274,1398,300,24,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/12 13:19:12
+4069,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,16,888,930,381,83,表头框,BIinvoiceHdr,发票表头,sGoodsDesc,品名,2016/4/12 13:19:12
+4070,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,17,13,1647,1609,682,表体外框,,,,,2016/4/12 13:19:12
+4071,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,18,10,1644,131,679,表体列,BIinvoiceDtl,发票表体,sGoodsNo,序号,2016/4/12 13:19:12
+4072,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,19,142,1646,336,679,表体列,BIinvoiceDtl,发票表体,sProductCode,产品代码,2016/4/12 13:19:12
+4073,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,20,478,1647,836,681,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,品名,2016/4/12 13:19:12
+4074,D:\Bill_template\invoice\ChevronPhillipsSingaporeinvoice20160412110847.jpg,ChevronPhillipsSingapore,invoice,复杂模版,FALSE,FALSE,21,1311,1649,290,673,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 13:19:12

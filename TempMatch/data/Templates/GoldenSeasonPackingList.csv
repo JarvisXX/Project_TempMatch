@@ -1,0 +1,15 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+2550,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,1,475,117,2378,527,模板特征,,,sExporter,,2016/4/1 12:42:23
+2551,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,2,470,107,2577,373,表头框,BIPackingListHdr,箱单表头,sExporter,供应商或卖方,2016/4/1 12:42:23
+2552,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,3,455,721,2592,250,表头框,BIPackingListHdr,箱单表头,sConsignee,收货人或买方,2016/4/1 12:42:23
+2553,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,4,705,1068,1130,87,表头框,BIPackingListHdr,箱单表头,sInvoNO,发票号,2016/4/1 12:42:23
+2554,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,5,2203,1063,834,97,表头框,BIPackingListHdr,箱单表头,sInvoData,发票日期,2016/4/1 12:42:23
+2555,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,6,807,1191,1028,107,表头框,BIPackingListHdr,箱单表头,sLoadPort,装船港,2016/4/1 12:42:23
+2556,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,7,2214,1196,874,102,表头框,BIPackingListHdr,箱单表头,sDiskPort,卸货港,2016/4/1 12:42:23
+2557,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,8,813,1319,746,97,表头框,BIPackingListHdr,箱单表头,sSailingOnOrAbout,装船日期,2016/4/1 12:42:23
+2558,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,9,2219,1329,890,87,表头框,BIPackingListHdr,箱单表头,sCarrier,承运方,2016/4/1 12:42:23
+2559,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,10,219,1431,2844,3237,表体外框,,,sExporter,,2016/4/1 12:42:23
+2560,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,11,225,1564,961,3058,表体列,BIPackingListDtl,箱单表体,sGoodsDesc,品名,2016/4/1 12:42:23
+2561,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,12,1196,1559,455,3079,表体列,BIPackingListDtl,箱单表体,sUnitAndQuan,,2016/4/1 12:42:23
+2562,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,13,1661,1564,583,3053,表体列,BIPackingListDtl,箱单表体,sUnitNetWeight,,2016/4/1 12:42:23
+2563,D:\Bill_template\packinglist\GoldenSeasonPackingList20160331131550.jpg,GoldenSeason,PackingList,复杂模版,FALSE,FALSE,14,2260,1559,782,3084,表体列,BIPackingListDtl,箱单表体,sUnitGrossWeight,,2016/4/1 12:42:23

@@ -1,0 +1,22 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4535,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,1,84,174,2362,209,模板特征,,,,,2016/4/13 14:36:09
+4536,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,2,124,301,1507,367,模板特征,,,,,2016/4/13 14:36:09
+4537,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,3,112,369,1505,291,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/13 14:36:09
+4538,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,4,121,733,1504,359,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/13 14:36:09
+4539,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,5,115,1159,1513,347,表头框,BIinvoiceHdr,发票表头,sNotifyParty,被通知方,2016/4/13 14:36:09
+4540,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,6,118,1577,759,76,表头框,BIinvoiceHdr,发票表头,sLoadPort,,2016/4/13 14:36:09
+4541,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,7,877,1574,754,79,表头框,BIinvoiceHdr,发票表头,sDiskPort,,2016/4/13 14:36:09
+4542,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,8,118,1715,756,77,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/13 14:36:09
+4543,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,9,877,1715,748,77,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/13 14:36:09
+4544,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,10,1631,375,1478,68,表头框,BIinvoiceHdr,发票表头,sInvoNoAdnData,发票号发票日期,2016/4/13 14:36:09
+4545,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,11,1631,510,1484,79,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/4/13 14:36:09
+4546,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,12,1633,651,1471,77,表头框,BIinvoiceHdr,发票表头,sLCNoAdnData,信用证号与日期,2016/4/13 14:36:09
+4547,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,13,1633,801,1468,282,表头框,BIinvoiceHdr,发票表头,sPayTerms,付款方式,2016/4/13 14:36:09
+4548,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,14,1633,1162,1462,627,表头框,BIinvoiceHdr,发票表头,sRemark,备注,2016/4/13 14:36:09
+4549,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,15,2816,1854,260,90,表头框,BIinvoiceHdr,发票表头,sCurrency,币种,2016/4/13 14:36:09
+4550,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,16,13,1944,3221,2721,表体外框,,,,,2016/4/13 14:36:09
+4551,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,17,31,1953,809,2671,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,序号,2016/4/13 14:36:09
+4552,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,18,840,1953,968,2680,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/13 14:36:09
+4553,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,19,1808,1944,486,2680,表体列,BIinvoiceDtl,发票表体,sUnitAndQuan,单位,2016/4/13 14:36:09
+4554,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,20,2284,1953,396,2657,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/13 14:36:09
+4555,D:\Bill_template\invoice\Lubricalsinvoice20160413142307.jpg,Lubricals,invoice,复杂模版,FALSE,FALSE,21,2680,1948,481,2667,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/13 14:36:09

@@ -1,0 +1,23 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+3125,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,1,1086,146,1001,260,模板特征,,,sExporter,,2016/4/1 15:50:49
+3126,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,2,182,331,1313,449,模板特征,,,sExporter,,2016/4/1 15:50:49
+3127,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,3,191,406,1307,377,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/1 15:50:49
+3128,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,4,208,864,1290,358,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/1 15:50:49
+3129,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,5,208,1297,1287,179,表头框,BIinvoiceHdr,发票表头,sNotifyParty,被通知方,2016/4/1 15:50:49
+3130,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,6,198,1547,585,186,表头框,BIinvoiceHdr,发票表头,sLoadPort,,2016/4/1 15:50:49
+3131,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,7,790,1550,712,189,表头框,BIinvoiceHdr,发票表头,sDiskPort,,2016/4/1 15:50:49
+3132,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,8,198,1811,588,182,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/1 15:50:49
+3133,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,9,796,1804,706,185,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/1 15:50:49
+3134,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,10,1511,406,1506,114,表头框,BIinvoiceHdr,发票表头,sInvoNoAdnData,发票号发票日期,2016/4/1 15:50:49
+3135,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,11,1502,575,1492,205,表头框,BIinvoiceHdr,发票表头,sLCNoAdnData,信用证号与日期,2016/4/1 15:50:49
+3136,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,12,1508,845,1499,192,表头框,BIinvoiceHdr,发票表头,sLcBank,开证行,2016/4/1 15:50:49
+3137,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,13,1508,1102,1486,897,表头框,BIinvoiceHdr,发票表头,sRemark,备注,2016/4/1 15:50:49
+3138,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,14,783,2146,1086,120,表头框,BIinvoiceHdr,发票表头,sCommoditry,产品,2016/4/1 15:50:49
+3139,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,15,1893,2142,1068,114,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/1 15:50:49
+3140,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,16,122,2284,2968,2382,表体外框,,,sExporter,,2016/4/1 15:50:49
+3141,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,17,135,2296,630,2291,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,序号,2016/4/1 15:50:49
+3142,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,18,771,2303,716,2278,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/1 15:50:49
+3143,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,19,1490,2306,359,2278,表体列,BIinvoiceDtl,发票表体,sUnit,盘,2016/4/1 15:50:49
+3144,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,20,1852,2306,315,2272,表体列,BIinvoiceDtl,发票表体,sQuan,品名,2016/4/1 15:50:49
+3145,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,21,2170,2303,429,2275,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/1 15:50:49
+3146,D:\Bill_template\invoice\GsCaltexCorpinvoice20160401121808.jpg,GsCaltexCorp,invoice,复杂模版,FALSE,FALSE,22,2605,2303,432,2284,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/1 15:50:49

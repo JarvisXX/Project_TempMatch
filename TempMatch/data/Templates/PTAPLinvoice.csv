@@ -1,0 +1,22 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+3747,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,1,173,143,3040,805,模板特征,,,,,2016/4/11 16:43:13
+3748,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,2,818,1751,1892,263,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/11 16:43:13
+3749,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,3,834,1187,1749,324,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/11 16:43:13
+3750,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,4,834,1094,480,87,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/11 16:43:13
+3751,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,5,2287,1125,409,68,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/11 16:43:13
+3752,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,6,834,1526,982,70,表头框,BIinvoiceHdr,发票表头,sLCNo,信用证号,2016/4/11 16:43:13
+3753,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,7,2279,1528,502,79,表头框,BIinvoiceHdr,发票表头,sLCData,信用证日期,2016/4/11 16:43:13
+3754,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,8,832,1610,947,127,表头框,BIinvoiceHdr,发票表头,sLcBank,开证行,2016/4/11 16:43:13
+3755,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,9,815,2025,908,84,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/11 16:43:13
+3756,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,10,2276,2028,606,98,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/11 16:43:13
+3757,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,11,826,2163,891,87,表头框,BIinvoiceHdr,发票表头,sDiskPort,卸货港,2016/4/11 16:43:13
+3758,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,12,2267,2177,796,88,表头框,BIinvoiceHdr,发票表头,sLoadPort,装船港,2016/4/11 16:43:13
+3759,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,13,820,2248,917,73,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/11 16:43:13
+3760,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,14,123,2349,3125,1903,表体外框,,,,,2016/4/11 16:43:13
+3761,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,15,204,2529,558,1698,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,麦码标记，包装编号和标记。常用内容：N/M,2016/4/11 16:43:13
+3762,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,16,771,2535,961,1708,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,品名,2016/4/11 16:43:13
+3763,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,17,1735,2535,282,1689,表体列,BIinvoiceDtl,发票表体,sPallet,托盘,2016/4/11 16:43:13
+3764,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,18,2017,2544,301,1705,表体列,BIinvoiceDtl,发票表体,sQuan,数量,2016/4/11 16:43:13
+3765,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,19,2321,2544,304,1680,表体列,BIinvoiceDtl,发票表体,sMeasurement,量度,2016/4/11 16:43:13
+3766,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,20,2625,2544,266,1655,表体列,BIinvoiceDtl,发票表体,sUnitPrice,单价,2016/4/11 16:43:13
+3767,D:\Bill_template\invoice\PTAPLinvoice20160411142422.jpg,PTAPL,invoice,复杂模版,FALSE,FALSE,21,2891,2547,338,1674,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/11 16:43:13

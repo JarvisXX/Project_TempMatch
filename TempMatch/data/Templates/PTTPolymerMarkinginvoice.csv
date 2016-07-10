@@ -1,0 +1,24 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4299,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,1,102,56,1021,416,模板特征,,,,,2016/4/12 16:52:35
+4300,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,2,435,76,856,81,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 16:52:35
+4301,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,3,82,527,848,155,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 16:52:35
+4302,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,4,1229,486,169,44,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 16:52:35
+4303,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,5,1230,530,306,36,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 16:52:35
+4304,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,6,1235,569,236,41,表头框,BIinvoiceHdr,发票表头,sCountryOrigin,原产地国,2016/4/12 16:52:35
+4305,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,7,488,685,401,44,表头框,BIinvoiceHdr,发票表头,sPONo,订单号,2016/4/12 16:52:35
+4306,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,8,483,723,445,46,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/12 16:52:35
+4307,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,9,483,769,451,42,表头框,BIinvoiceHdr,发票表头,sLoadPort,装船港,2016/4/12 16:52:35
+4308,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,10,481,806,447,48,表头框,BIinvoiceHdr,发票表头,sDiskPort,卸货港,2016/4/12 16:52:35
+4309,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,11,481,845,444,46,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/12 16:52:35
+4310,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,12,481,884,463,46,表头框,BIinvoiceHdr,发票表头,sPayTerms,付款方式,2016/4/12 16:52:35
+4311,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,13,204,932,406,32,表头框,BIinvoiceHdr,发票表头,sLCNo,信用证号,2016/4/12 16:52:35
+4312,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,14,306,961,400,36,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/4/12 16:52:35
+4313,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,15,1042,1099,453,32,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/12 16:52:35
+4314,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,16,956,1061,105,33,表头框,BIinvoiceHdr,发票表头,sMeasurement,计量单位,2016/4/12 16:52:35
+4315,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,17,1412,1060,104,35,表头框,BIinvoiceHdr,发票表头,sCurrency,币种,2016/4/12 16:52:35
+4316,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,18,89,1136,1523,1147,表体外框,,,,,2016/4/12 16:52:35
+4317,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,19,89,1141,192,1070,表体列,BIinvoiceDtl,发票表体,sGoodsNo,序号,2016/4/12 16:52:35
+4318,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,20,278,1136,617,1083,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,品名,2016/4/12 16:52:35
+4319,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,21,895,1136,221,1083,表体列,BIinvoiceDtl,发票表体,sQuan,数量,2016/4/12 16:52:35
+4320,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,22,1114,1136,254,1088,表体列,BIinvoiceDtl,发票表体,sUnitPrice,单价,2016/4/12 16:52:35
+4321,D:\Bill_template\invoice\PTTPolymerMarkinginvoice20160412163335.jpg,PTTPolymerMarking,invoice,复杂模版,FALSE,FALSE,23,1368,1134,229,1090,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 16:52:35

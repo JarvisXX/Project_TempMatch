@@ -1,0 +1,17 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+3886,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,1,77,49,406,191,模板特征,,,,,2016/4/12 10:25:13
+3887,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,2,793,81,717,127,模板特征,,,,,2016/4/12 10:25:13
+3888,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,3,168,244,619,222,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 10:25:13
+3889,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,4,166,1019,622,185,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 10:25:13
+3890,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,5,168,534,617,186,表头框,BIinvoiceHdr,发票表头,sNotifyParty,被通知方,2016/4/12 10:25:13
+3891,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,6,1053,266,421,30,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 10:25:13
+3892,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,7,1050,294,426,34,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 10:25:13
+3893,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,8,1044,356,433,38,表头框,BIinvoiceHdr,发票表头,sTotalAmount,总计金额货币,2016/4/12 10:25:13
+3894,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,9,826,480,648,39,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/12 10:25:13
+3895,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,10,827,570,645,159,表头框,BIinvoiceHdr,发票表头,sPayTerms,付款方式,2016/4/12 10:25:13
+3896,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,11,822,797,652,186,表头框,BIinvoiceHdr,发票表头,sLcBank,开证行,2016/4/12 10:25:13
+3897,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,12,74,1566,1454,472,表体外框,,,,,2016/4/12 10:25:13
+3898,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,13,73,1566,803,477,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/12 10:25:13
+3899,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,14,877,1566,205,473,表体列,BIinvoiceDtl,发票表体,sUnitAndQuan,单位,2016/4/12 10:25:13
+3900,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,15,1079,1565,224,474,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/12 10:25:13
+3901,D:\Bill_template\invoice\IneosTradingSHinvoice20160412101544.jpg,IneosTradingSH,invoice,复杂模版,FALSE,FALSE,16,1301,1565,192,473,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 10:25:13

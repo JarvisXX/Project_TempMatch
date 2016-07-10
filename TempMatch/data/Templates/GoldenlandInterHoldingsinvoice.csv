@@ -1,0 +1,20 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4259,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,1,162,203,879,281,模板特征,,,,,2016/4/12 16:30:03
+4260,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,2,160,321,711,170,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 16:30:03
+4261,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,3,165,527,697,220,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 16:30:03
+4262,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,4,867,790,335,47,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 16:30:03
+4263,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,5,1199,785,240,52,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 16:30:03
+4264,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,6,867,873,572,46,表头框,BIinvoiceHdr,发票表头,sContNo,合同号,2016/4/12 16:30:03
+4265,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,7,867,1000,310,48,表头框,BIinvoiceHdr,发票表头,sLCNo,信用证号,2016/4/12 16:30:03
+4266,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,8,1174,919,263,122,表头框,BIinvoiceHdr,发票表头,sPayTerms,付款方式,2016/4/12 16:30:03
+4267,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,9,165,751,699,288,表头框,BIinvoiceHdr,发票表头,sLcBank,开证行,2016/4/12 16:30:03
+4268,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,10,162,1079,702,50,表头框,BIinvoiceHdr,发票表头,sLoadPort,,2016/4/12 16:30:03
+4269,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,11,160,1163,709,63,表头框,BIinvoiceHdr,发票表头,sDiskPort,,2016/4/12 16:30:03
+4270,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,12,867,1168,577,58,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/12 16:30:03
+4271,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,13,864,1082,575,43,表头框,BIinvoiceHdr,发票表头,sCountryOrigin,原产地国,2016/4/12 16:30:03
+4272,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,14,1226,1258,202,45,表头框,BIinvoiceHdr,发票表头,sCurrency,币种,2016/4/12 16:30:03
+4273,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,15,142,1310,1304,983,表体外框,,,,,2016/4/12 16:30:03
+4274,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,16,162,1326,673,971,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,数量,2016/4/12 16:30:03
+4275,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,17,837,1326,174,969,表体列,BIinvoiceDtl,发票表体,sUnit,盘,2016/4/12 16:30:03
+4276,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,18,1009,1322,197,978,表体列,BIinvoiceDtl,发票表体,sUnitPrice,其他,2016/4/12 16:30:03
+4277,D:\Bill_template\invoice\GoldenlandInterHoldingsinvoice20160412162154.jpg,GoldenlandInterHoldings,invoice,复杂模版,FALSE,FALSE,19,1204,1322,235,953,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 16:30:03

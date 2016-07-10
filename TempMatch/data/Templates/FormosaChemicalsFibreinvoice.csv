@@ -1,0 +1,21 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+4220,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,1,94,105,982,291,模板特征,,,,,2016/4/12 16:20:47
+4221,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,2,617,166,459,108,表头框,BIinvoiceHdr,发票表头,sExporter,供应商或卖方,2016/4/12 16:20:47
+4222,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,3,634,554,737,122,表头框,BIinvoiceHdr,发票表头,sConsignee,收货人或买方,2016/4/12 16:20:47
+4223,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,4,1298,344,268,42,表头框,BIinvoiceHdr,发票表头,sInvoNO,发票号,2016/4/12 16:20:47
+4224,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,5,1236,382,384,35,表头框,BIinvoiceHdr,发票表头,sPONo,订单号,2016/4/12 16:20:47
+4225,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,6,1235,409,397,45,表头框,BIinvoiceHdr,发票表头,sInvoData,发票日期,2016/4/12 16:20:47
+4226,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,7,288,424,359,53,表头框,BIinvoiceHdr,发票表头,sCarrier,承运方,2016/4/12 16:20:47
+4227,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,8,175,475,451,63,表头框,BIinvoiceHdr,发票表头,sLoadPort,装船港,2016/4/12 16:20:47
+4228,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,9,690,479,382,55,表头框,BIinvoiceHdr,发票表头,sDiskPort,卸货港,2016/4/12 16:20:47
+4229,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,10,389,676,569,33,表头框,BIinvoiceHdr,发票表头,sLCNo,信用证号,2016/4/12 16:20:47
+4230,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,11,1135,671,300,43,表头框,BIinvoiceHdr,发票表头,sLCData,信用证日期,2016/4/12 16:20:47
+4231,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,12,254,710,733,41,表头框,BIinvoiceHdr,发票表头,sLcBank,开证行,2016/4/12 16:20:47
+4232,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,13,1276,450,301,42,表头框,BIinvoiceHdr,发票表头,sSailingOnOrAbout,装船日期,2016/4/12 16:20:47
+4233,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,14,1011,841,346,43,表头框,BIinvoiceHdr,发票表头,sTradeTerms,CIF等成交方式，有些有标题有些无标,2016/4/12 16:20:47
+4234,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,15,58,871,1521,1462,表体外框,,,,,2016/4/12 16:20:47
+4235,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,16,63,880,285,1403,表体列,BIinvoiceDtl,发票表体,sMarksNoPkgs,麦码标记，包装编号和标记。常用内容：N/M,2016/4/12 16:20:47
+4236,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,17,346,880,430,1407,表体列,BIinvoiceDtl,发票表体,sGoodsDesc,品名,2016/4/12 16:20:47
+4237,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,18,773,877,229,1428,表体列,BIinvoiceDtl,发票表体,sQuan,数量,2016/4/12 16:20:47
+4238,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,19,1000,891,262,1414,表体列,BIinvoiceDtl,发票表体,sUnitPrice,单价,2016/4/12 16:20:47
+4239,D:\Bill_template\invoice\FormosaChemicalsFibreinvoice20160412161315.jpg,FormosaChemicalsFibre,invoice,复杂模版,FALSE,FALSE,20,1258,889,312,1407,表体列,BIinvoiceDtl,发票表体,sAmount,金额,2016/4/12 16:20:47
