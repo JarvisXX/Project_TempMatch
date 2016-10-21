@@ -1,0 +1,18 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+6122,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,1,1053,522,391,185,模板特征,,,,,2016/8/26 11:26:00
+6123,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,2,423,852,857,45,表头框,BIsalesContractHdr,销售合同主表,sBuyerCN,买方中文,2016/8/26 11:26:00
+6124,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,3,415,889,852,41,表头框,BIsalesContractHdr,销售合同主表,sBuyerEN,"买方英文
+",2016/8/26 11:26:00
+6125,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,4,417,1118,852,39,表头框,BIsalesContractHdr,销售合同主表,sSellerCN,卖方中文,2016/8/26 11:26:00
+6126,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,5,412,1157,852,48,表头框,BIsalesContractHdr,销售合同主表,sSellerEN,"卖方英文
+",2016/8/26 11:26:00
+6127,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,6,1412,1897,756,53,表头框,BIsalesContractHdr,销售合同主表,sPort,港口,2016/8/26 11:26:00
+6128,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,7,1409,1954,238,42,表头框,BIsalesContractHdr,销售合同主表,sShipmentPort,起运港,2016/8/26 11:26:00
+6129,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,8,1237,2058,859,56,表头框,BIsalesContractHdr,销售合同主表,sCountryManufacturer,生产国别厂商,2016/8/26 11:26:00
+6130,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,9,204,1609,347,80,表体列,BIsalesContractDtl,销售合同从表,sGoodsName,商品名称,2016/8/26 11:26:00
+6131,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,10,558,1609,352,79,表体列,BIsalesContractDtl,销售合同从表,sSpecifications,规格,2016/8/26 11:26:00
+6132,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,11,912,1613,98,79,表体列,BIsalesContractDtl,销售合同从表,sUnit,单位,2016/8/26 11:26:00
+6133,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,12,1017,1613,144,77,表体列,BIsalesContractDtl,销售合同从表,nQuantity,数量,2016/8/26 11:26:00
+6134,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,13,1163,1615,96,83,表体列,BIsalesContractDtl,销售合同从表,sCHtransactionTypeName,C.I.F,2016/8/26 11:26:00
+6135,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,14,1259,1611,177,87,表体列,BIsalesContractDtl,销售合同从表,nPrice,单价,2016/8/26 11:26:00
+6136,D:\Bill_template\HT\上海化优HT20160823112746.jpg,上海化优,,复杂模版,FALSE,FALSE,15,1436,1613,559,87,表体列,BIsalesContractDtl,销售合同从表,nTotalAmount,总金额,2016/8/26 11:26:00

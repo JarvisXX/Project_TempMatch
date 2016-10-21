@@ -1,0 +1,21 @@
+ID,路径,公司名称,单证类型,模板类型,多页标记,纯表格,坐标序号,X坐标,Y坐标,宽度,高度,坐标特征,数据属性.表名,数据属性.表名(中文),数据属性.列名,数据属性.列名(中文),创建时间
+6072,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,1,875,27,836,297,模板特征,,,,,2016/8/25 18:28:53
+6073,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,2,492,349,989,246,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sPurchaseName,名称(购买方),2016/8/25 18:28:53
+6074,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,3,1545,347,952,252,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sPasswordArea,密码区,2016/8/25 18:28:53
+6075,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,4,115,649,614,412,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sGoodsServiceName,货物或应税劳务、服务名称,2016/8/25 18:28:53
+6076,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,5,737,649,298,480,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sSpecificationModel,规格型号,2016/8/25 18:28:53
+6077,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,6,1039,649,142,472,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sCompany,单位,2016/8/25 18:28:53
+6078,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,7,1179,647,239,476,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sNumber,数量,2016/8/25 18:28:53
+6079,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,8,1422,645,237,474,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sPrice,单价,2016/8/25 18:28:53
+6080,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,9,1662,645,355,478,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sAmount,金额,2016/8/25 18:28:53
+6081,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,10,2017,645,125,472,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sTaxRate,税率,2016/8/25 18:28:53
+6082,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,11,2148,643,349,480,表体列,BIvatSpecialInvoiceDtl,增值税专用发票主表,sTax,税额,2016/8/25 18:28:53
+6083,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,12,737,1129,1099,97,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sPriceTotalUpper,价税合计(大写),2016/8/25 18:28:53
+6084,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,13,1978,1123,517,101,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sPriceTotalLower,价税合计(小写),2016/8/25 18:28:53
+6085,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,14,492,1228,989,238,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sSaleName,名称(销售方),2016/8/25 18:28:53
+6086,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,15,1545,1226,950,239,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sRemark,备注,2016/8/25 18:28:53
+6087,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,16,326,1472,493,97,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sPayee,收款人,2016/8/25 18:28:53
+6088,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,17,948,1472,384,97,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sToRreview,复核人,2016/8/25 18:28:53
+6089,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,18,1502,1470,392,107,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sDrawer,开票人,2016/8/25 18:28:53
+6090,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,19,2200,1468,291,109,表头框,BIvatSpecialInvoiceHdr,增值税专用发票主表,sSalesParty,销售方,2016/8/25 18:28:53
+6091,D:\Bill_template\ZZS\上海化优ZZS20160824142720.jpg,上海化优,,复杂模版,FALSE,FALSE,20,113,658,2378,417,表体外框,,,,,2016/8/25 18:28:53

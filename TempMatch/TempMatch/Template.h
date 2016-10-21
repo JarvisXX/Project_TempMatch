@@ -16,6 +16,6 @@ public:
 	RECT *rect;
 	int histCols;
 	double *histogram;
-	int cata;
+	int cata = 0;
 };
 #endif

@@ -23,9 +23,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="templateHistogram.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="BorderRevised.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -38,7 +35,19 @@
     <ClCompile Include="ModHausdorffDist.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="templateHistogram_30.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="templateHistogram_60.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Reset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdSizeShow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test4Reset.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

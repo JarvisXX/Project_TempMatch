@@ -14,7 +14,7 @@ using namespace std;
 using namespace cv;
 
 extern Template xlsProcess(string filename);
-extern double* templateHistogram(Mat templateImg, double partNum, int binNum);
+extern double* templateHistogram_30(string fileName, Mat templateImg, double partNum, int binNum);
 
 void getFiles(string path, vector<string>& files){
 	//文件句柄  
@@ -52,34 +52,33 @@ int main(){
 
 	int tempNum = TemplatesInfoList.size();
 	templates = new Template[tempNum];
-
 	//读取模版信息
 	//xlsProcess
 	for (int i = 0; i < tempNum; ++i){
-		cout << TemplatesInfoList[i].c_str() << endl;
+		//cout << TemplatesInfoList[i].c_str() << endl;
 		templates[i] = xlsProcess(TemplatesInfoList[i]);
 	}
 
 	//计算表格表头部分的横纵投影
 	//templateHistogram
 	for (int i = 0; i < tempNum; ++i){
-		//cout << templates[i].FilePath << endl;
+		cout << templates[i].FilePath << endl;
 		templateImg = imread(templates[i].FilePath);
 		templates[i].histCols = 2 * binNum;
-		templates[i].histogram = templateHistogram(templateImg, partNum, binNum);
+		templates[i].histogram = templateHistogram_30(templates[i].FilePath, templateImg, partNum, binNum);
 	}
-
+	
 	//将所有投影存入矩阵
-	Mat histogram(tempNum, 2*binNum, CV_32FC1);
+	Mat histogram(tempNum, 2 * binNum, CV_32FC1);
 	for (int i = 0; i < tempNum; ++i){
 		for (int j = 0; j < 2 * binNum; ++j){
 			histogram.at<float>(i, j) = templates[i].histogram[j];
 		}
 	}
 	
-	//cout << "before kmeans" << endl;
+	cout << "before kmeans" << endl;
 	//使用kmeans聚类
-	kmeans(histogram, 6, labels, TermCriteria(CV_TERMCRIT_EPS + CV_TERMCRIT_ITER, 10, 1.0), 3, KMEANS_PP_CENTERS, centers);
+	kmeans(histogram, tempNum / 10, labels, TermCriteria(CV_TERMCRIT_EPS + CV_TERMCRIT_ITER, 10, 1.0), 3, KMEANS_PP_CENTERS, centers);
 	//histogram-聚类数据
 	//clusterCount-聚类个数
 	//labels-聚类编号
@@ -87,7 +86,7 @@ int main(){
 	//attempts-聚类次数
 	//flags-选取初始点方法
 	//centers-聚类中心
-	//cout << "after kmeans" << endl;
+	cout << "after kmeans" << endl;
 	//cout << labels << endl;
 	//cout << centers << endl;
 
@@ -107,7 +106,7 @@ int main(){
 		file << '\n';
 	}
 	file.close();
-
+	
 	file.open("templateInfo.csv");
 	file << tempNum << '\n';
 	for (int i = 0; i < tempNum; ++i){

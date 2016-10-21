@@ -1,0 +1,9 @@
+先运行TemplatesRead文件，再运行test文件
+
+模板Excel文件和测试图像存于data文件夹中
+TemplatesRead读取模板excel文件中的信息，并对模板的表头聚类。
+
+模板图像应存于excel文件中FilePath栏所指向的地址
+如果你有模板图像库和对应的excel文件，可直接使用你的excel
+
+程序中无论是excel文件地址或者是测试图像地址，都是绝对地址，测试时注意修改

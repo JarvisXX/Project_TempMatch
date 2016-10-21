@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 double ModHausdorffDist(vector<vector<int>> vec1, vector<vector<int>> vec2){
@@ -25,6 +26,7 @@ double ModHausdorffDist(vector<vector<int>> vec1, vector<vector<int>> vec2){
 		fhd += minDist;
 	}
 	fhd /= vec1.size();
+	//cout << "fhd: " << fhd << endl;
 
 	for (int j = 0; j < vec2.size(); ++j){
 		minDist = DBL_MAX;
@@ -39,6 +41,7 @@ double ModHausdorffDist(vector<vector<int>> vec1, vector<vector<int>> vec2){
 		rhd += minDist;
 	}
 	rhd /= vec2.size();
+	//cout << "rhd: " << rhd << endl;
 
 	mhd = max(fhd, rhd);
 	return mhd;

@@ -11,15 +11,16 @@
 #include <direct.h>
 #include <mat.h>
 #include "Template.h"
+
 using namespace cv;
 using namespace std;
 
-extern double* templateHistogram(Mat templateImg, double partNum, int binNum);
+extern double* templateHistogram_30(string fileName, Mat templateImg, double partNum, int binNum);
 extern Rect BorderRevised(Rect RectPosition, Mat framegray, int EdgeWidth);
 extern double ModHausdorffDist(vector<vector<int>> vec1, vector<vector<int>> vec2);
 extern double m_hd(Mat img1, Mat img2);
-
 extern int str2int(string str);
+extern void stdSizeShow(string imgName, Mat img);
 
 string double2str(double num){
 	stringstream ss;
@@ -110,13 +111,13 @@ Template* tRead(string filename, int &tempNum){
 				case 2: result[i].FilePath = cell; ++count; break;
 				case 3: result[i].TemplateType = cell; ++count; break;
 				case 4:
-					if (cell == "FLASE")
+					if (cell == "FALSE")
 						result[i].PageFlag = '0';
 					else
 						result[i].PageFlag = '1';
 					++count; break;
 				case 5:
-					if (cell == "FLASE")
+					if (cell == "FALSE")
 						result[i].TableFlag = '0';
 					else
 						result[i].TableFlag = '1';
@@ -167,19 +168,25 @@ int main(){
 
 	//读取测试图像，并转为灰度图
 	Mat dataTest;
-	string TestFile = "S:\\Project_TempMatch\\TempMatch\\data\\20160524测试文件\\JH16050135\\发票.jpg";
+	string TestFile = "D:\\Bill_template\\CIQSJ\\上海化优CIQSJ20160824142854.jpg";
 	dataTest = imread(TestFile);
 	Mat dataTestGray;
 	if (dataTest.channels() > 1)
 		cvtColor(dataTest, dataTestGray, CV_RGB2GRAY);
 	else
-		dataTestGray = dataTest;
+		dataTest.copyTo(dataTestGray);
 
 	//统计表格前partNum部分的横纵投影
 	double partNum = (double)1 / 4;
 	int binNum = 30;
 	double *testHistogram = new double[2 * binNum];
-	testHistogram = templateHistogram(dataTestGray, partNum, binNum);
+	testHistogram = templateHistogram_30(TestFile, dataTestGray, partNum, binNum);
+	/*
+	for (int i = 0; i < 2 * binNum; ++i){
+		cout << testHistogram[i] << endl;
+	}
+	system("pause");
+	*/
 
 	//根据表头粗分类
 	double *distance = new double[C.rows];
@@ -193,13 +200,13 @@ int main(){
 			den1 += pow(testHistogram[j], 2);
 			den2 += pow(C.at<float>(i, j), 2);
 		}
-		distance[i] = num / sqrt(den1 * den2);
+		distance[i] = 1 - num / sqrt(den1 * den2);
 		if (distance[i] < minDistance){
 			minDistance = distance[i];
 			minC = i;
 		}
 	}
-
+	//cout << minC << endl;
 	//coarseIdx用来储存与表头投影距离最近的聚类中心所包含的模板编号
 	bool *coarseIdx = new bool[tempNum];
 	for (int i = 0; i < tempNum; ++i){
@@ -225,22 +232,23 @@ int main(){
 	for (int i = 0; i < tempNum; ++i){
 		if (!coarseIdx[i])
 			continue;
+		//cout << "i:" << i << endl;
 		cout << "TestFile:" << endl;
 		cout << TestFile << endl;
 		cout << "DataFile:" << endl;
 		cout << templates[i].FilePath << endl;
 		img = imread(templates[i].FilePath);
-		if (img.channels() == 3)
+		if (img.channels() > 1)
 			cvtColor(img, framegray, CV_RGB2GRAY);
 		else
-			framegray = img;
+			img.copyTo(framegray);
 
 		featureNum = 0;
 		for (int j = 0; j < templates[i].rectNum; ++j){
 			if (!strcmp(templates[i].rect[j].FeatureFlag.c_str(), "模板特征")){
 				//需要进行矩形框识别
 				tempRectPosition = templates[i].rect[j].pos;
-				revisedTempRectPosition = BorderRevised(tempRectPosition, framegray, 10); //边界处理
+				revisedTempRectPosition = BorderRevised(tempRectPosition, framegray, 0); //边界处理
 				tempBox = framegray(revisedTempRectPosition); //截取特征框
 				//归一化特征框位置
 				dataRectPosition.x = int(floor((double)tempRectPosition.x / framegray.cols * dataTestGray.cols));
@@ -249,18 +257,18 @@ int main(){
 				dataRectPosition.height = int(floor((double)tempRectPosition.height / framegray.rows * dataTestGray.rows));
 				//dataRectPosition.width = tempRectPosition.width;
 				//dataRectPosition.height = tempRectPosition.height;
-				revisedDataRectPosition = BorderRevised(dataRectPosition, dataTestGray, 10);
+				revisedDataRectPosition = BorderRevised(dataRectPosition, dataTestGray, 0);
 				dataBox = dataTestGray(revisedDataRectPosition);
 
 				//计算特征框间相似度
 				//Harris角点检测
-				threshold(tempBox, tempBox, 0, 255, CV_THRESH_OTSU);
-				threshold(dataBox, dataBox, 0, 255, CV_THRESH_OTSU);
+				threshold(tempBox, tempBox, 0, 255, CV_THRESH_BINARY | CV_THRESH_OTSU);
+				threshold(dataBox, dataBox, 0, 255, CV_THRESH_BINARY | CV_THRESH_OTSU);
 				Mat cornerTempBox, cornerDataBox;
 				cornerHarris(tempBox, cornerTempBox, 3, 3, 0.01);
 				cornerHarris(dataBox, cornerDataBox, 3, 3, 0.01);
-				threshold(cornerTempBox, cornerTempBox, 0.12, 255, CV_THRESH_BINARY);
-				threshold(cornerDataBox, cornerDataBox, 0.12, 255, CV_THRESH_BINARY);
+				threshold(cornerTempBox, cornerTempBox, 0.08, 255, CV_THRESH_BINARY);
+				threshold(cornerDataBox, cornerDataBox, 0.08, 255, CV_THRESH_BINARY);
 				
 				//记录角点坐标
 				vector<vector<int>> tempCorners, dataCorners;
@@ -286,56 +294,39 @@ int main(){
 					}
 				}
 				cout << "Data Corner Number: " << dataCorners.size() << endl;
-
+				
 				//计算豪斯多夫距离
-				score = ModHausdorffDist(tempCorners, dataCorners);
+				if (dataCorners.size() == 0 || dataCorners.size() == 0)
+					score = INFINITY;
+				else
+					score = ModHausdorffDist(tempCorners, dataCorners);
+				cout << "score:" << score << endl;
 				//score = m_hd(tempBox, dataBox);
 				tempScore[i] += score;
 
+				//显示特征框
+				/*
 				int colNum = max(tempBox.cols, dataBox.cols);
 				int rowNum = max(tempBox.rows, dataBox.rows);
-				copyMakeBorder(tempBox, display_left, int(floor((rowNum - tempBox.rows) / 2.0)), int(ceil((rowNum - tempBox.rows) / 2.0)), int(floor((colNum - tempBox.cols) / 2.0)), int(ceil((colNum - tempBox.cols) / 2.0)) + colNum, BORDER_ISOLATED);
-				copyMakeBorder(dataBox, display_right, int(floor((rowNum - dataBox.rows) / 2.0)), int(ceil((rowNum - dataBox.rows) / 2.0)), int(floor((colNum - dataBox.cols) / 2.0)) + colNum, int(ceil((colNum - dataBox.cols) / 2.0)), BORDER_ISOLATED);
+				copyMakeBorder(tempBox, display_left, int(floor((rowNum - tempBox.rows) / 2.0)), int(ceil((rowNum - tempBox.rows) / 2.0)), int(floor((colNum - tempBox.cols) / 2.0)), int(ceil((colNum - tempBox.cols) / 2.0)) + colNum + 10, BORDER_ISOLATED);
+				copyMakeBorder(dataBox, display_right, int(floor((rowNum - dataBox.rows) / 2.0)), int(ceil((rowNum - dataBox.rows) / 2.0)), int(floor((colNum - dataBox.cols) / 2.0)) + colNum + 10, int(ceil((colNum - dataBox.cols) / 2.0)), BORDER_ISOLATED);
 				add(display_left, display_right, display);
-				if (display.cols > 1000){
-					CvSize size;
-					size.width = 1000;
-					size.height = int(floor((double)1000 / display.cols * display.rows));
-					resize(display, display, size, CV_INTER_LINEAR);
-				}
-				if (display.rows > 1000){
-					CvSize size;
-					size.height = 1000;
-					size.width = int(floor((double)1000 / display.rows * display.cols));
-					resize(display, display, size, CV_INTER_LINEAR);
-				}
-				imshow("hausdorf distance is "+double2str(score), display);
-				waitKey(0);
+				stdSizeShow("hausdorf distance is "+double2str(score), display);
+				*/
+				//显示角点图
 				/*
 				colNum = max(cornerTempBox.cols, cornerDataBox.cols);
 				rowNum = max(cornerTempBox.rows, cornerDataBox.rows);
-				copyMakeBorder(cornerTempBox, display_left, int(floor((rowNum - cornerTempBox.rows) / 2.0)), int(ceil((rowNum - cornerTempBox.rows) / 2.0)), int(floor((colNum - cornerTempBox.cols) / 2.0)), int(ceil((colNum - cornerTempBox.cols) / 2.0)) + colNum, BORDER_ISOLATED);
-				copyMakeBorder(cornerDataBox, display_right, int(floor((rowNum - cornerDataBox.rows) / 2.0)), int(ceil((rowNum - cornerDataBox.rows) / 2.0)), int(floor((colNum - cornerDataBox.cols) / 2.0)) + colNum, int(ceil((colNum - cornerDataBox.cols) / 2.0)), BORDER_ISOLATED);
+				copyMakeBorder(cornerTempBox, display_left, int(floor((rowNum - cornerTempBox.rows) / 2.0)), int(ceil((rowNum - cornerTempBox.rows) / 2.0)), int(floor((colNum - cornerTempBox.cols) / 2.0)), int(ceil((colNum - cornerTempBox.cols) / 2.0)) + colNum + 10, BORDER_ISOLATED);
+				copyMakeBorder(cornerDataBox, display_right, int(floor((rowNum - cornerDataBox.rows) / 2.0)), int(ceil((rowNum - cornerDataBox.rows) / 2.0)), int(floor((colNum - cornerDataBox.cols) / 2.0)) + colNum + 10, int(ceil((colNum - cornerDataBox.cols) / 2.0)), BORDER_ISOLATED);
 				add(display_left, display_right, display);
-				if (display.cols > 1000){
-					CvSize size;
-					size.width = 1000;
-					size.height = int(floor((double)1000 / display.cols * display.rows));
-					resize(display, display, size, CV_INTER_LINEAR);
-				}
-				if (display.rows > 1000){
-					CvSize size;
-					size.height = 1000;
-					size.width = int(floor((double)1000 / display.rows * display.cols));
-					resize(display, display, size, CV_INTER_LINEAR);
-				}
-				imshow("corner", display);
+				stdSizeShow("corner", display);
 				waitKey(0);
 				*/
 				++featureNum;
 			}
 		}
-		//waitKey(0);
+		waitKey(0);
 		double FineDistance;
 		double num, den1, den2;
 		num = den1 = den2 = 0;
@@ -344,7 +335,10 @@ int main(){
 			den1 += pow(testHistogram[j], 2);
 			den2 += pow(templates[i].histogram[j], 2);
 		}
-		FineDistance = num / sqrt(den1 * den2);
+		FineDistance = 1 - num / sqrt(den1 * den2);
+		cout << "FineDistance: " << FineDistance << endl;
+		if (featureNum == 0)
+			continue;
 		tempScore[i] /= featureNum;
 		tempScore[i] *= FineDistance;
 
@@ -361,19 +355,7 @@ int main(){
 		copyMakeBorder(dataDisplay, display_left, 0, 0, 0, tempMatched.cols + 10, BORDER_ISOLATED);
 		copyMakeBorder(tempMatched, display_right, 0, 0, dataDisplay.cols + 10, 0, BORDER_ISOLATED);
 		add(display_left, display_right, display);
-		if (display.cols > 1000){
-			CvSize size;
-			size.width = 1000;
-			size.height = int(floor((double)1000 / display.cols * display.rows));
-			resize(display, display, size, CV_INTER_LINEAR);
-		}
-		if (display.rows > 1000){
-			CvSize size;
-			size.height = 1000;
-			size.width = int(floor((double)1000 / display.rows * display.cols));
-			resize(display, display, size, CV_INTER_LINEAR);
-		}
-		imshow("Result", display);
+		stdSizeShow("Result", display);
 		waitKey(0);
 	}
 	else{

@@ -18,7 +18,10 @@ int main(){
 	Mat templateImg;
 	int binNum = 30;
 	double *bin = new double[2*binNum];
-	templateImg = imread("S:\\Project_TempMatch\\TempMatch\\data\\1465596660147.jpg");
-	bin = templateHistogram(templateImg, 1, 30);
+	templateImg = imread("S:\\Project_TempMatch\\TempMatch\\data\\TestQ.jpg");
+	bin = templateHistogram(templateImg, 0.25, 30);
+	for (int i = 0; i < 2 * binNum; ++i){
+		cout << bin[i] << endl;
+	}
 	system("pause");
 }

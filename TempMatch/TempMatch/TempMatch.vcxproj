@@ -89,8 +89,11 @@
     <ClCompile Include="BorderRevised.cpp" />
     <ClCompile Include="ModHausdorffDist.cpp" />
     <ClCompile Include="m_hd.cpp" />
-    <ClCompile Include="templateHistogram.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Reset.cpp" />
+    <ClCompile Include="stdSizeShow.cpp" />
+    <ClCompile Include="templateHistogram_30.cpp" />
+    <ClCompile Include="templateHistogram_60.cpp" />
+    <ClCompile Include="test4Reset.cpp" />
     <ClCompile Include="xlsProcess.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

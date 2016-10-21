@@ -11,6 +11,7 @@
 #include <direct.h>
 #include <mat.h>
 #include "Template.h"
+
 using namespace cv;
 using namespace std;
 
@@ -53,10 +54,10 @@ Template xlsProcess(string filename){
 			case 2: temp.CompanyName = cell; break;
 			case 3: temp.DocumentType = cell; break;
 			case 4: temp.TemplateType = cell; break;
-			case 5: if (cell == "FLASE")
+			case 5: if (cell == "FALSE")
 				temp.PageFlag = '0';
 					else temp.PageFlag = '1'; break;
-			case 6: if (cell == "FLASE")
+			case 6: if (cell == "FALSE")
 				temp.TableFlag = '0';
 					else temp.TableFlag = '1'; break;
 			case 8: rect[cntrect].pos.x = str2int(cell); break;
